@@ -17,3 +17,10 @@
 // -  DOM membuat seluruh koponen dari halaman web dapat diakses dan dimanipulasi
 // - komponen => elemen html, atribut, text, dll
 // - DOM dapat dimanipulasi (dibuat, diubah, dihapus) menggunakan javascripts
+
+// what to learn?
+// - DOM selection
+// - DOM manipulation
+// - DOM traversal
+// - Event handling
+// - Study Case => create a simple program
